@@ -1,7 +1,7 @@
-<header style="text-align:center;">
+<div style="text-align:center;">
 <h2>¿Quién eres?</h2>
 <h1>Mi Nombre es: Jonathan Toloza </h1>
-</header>
+</div>
 
 <!--
 **JToloza2021/JToloza2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
