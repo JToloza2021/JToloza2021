@@ -2,7 +2,7 @@
         <h2>¿Quién eres?</h2>
         <h1>Mi Nombre es: Jonathan Toloza </h1>
         <h3>Ingeniero en informatica</h3>
-        <img src="https://drive.google.com/file/d/1GNBMr7pyI92KLGSirrcN8CoQo-DgznNG/view?usp=sharing" alt="foto mia" width="100px" height="100px">
+        <img src="https://drive.google.com/file/d/1GNBMr7pyI92KLGSirrcN8CoQo-DgznNG/view?usp=drive_link" alt="foto mia" width="100px" height="100px">
     </header>
 
 <!--
