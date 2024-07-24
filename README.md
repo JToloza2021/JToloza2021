@@ -1,4 +1,9 @@
-<header style="text-align: center;">
+<style>
+        header{
+                text-align:center;
+        }
+</style>
+<header>
         <h2>¿Quién eres?</h2>
         <h1>Mi Nombre es: Jonathan Toloza </h1>
 </header>
