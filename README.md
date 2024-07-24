@@ -1,11 +1,6 @@
-<style>
-        header{
-                text-align:center;
-        }
-</style>
-<header>
-        <h2>¿Quién eres?</h2>
-        <h1>Mi Nombre es: Jonathan Toloza </h1>
+<header style="text-align:center;">
+<h2>¿Quién eres?</h2>
+<h1>Mi Nombre es: Jonathan Toloza </h1>
 </header>
 
 <!--
