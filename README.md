@@ -1,12 +1,30 @@
+
+  
   <header style="display: flex; justify-content: center; align-items: center;  height: 100vh;">
-        <div style="display: flex; align-items: center; max-width: 800px;  margin: 20px; padding: 20px; border: 1px solid #ddd; border-radius: 8p;  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-            <img src="https://drive.google.com/uc?export=download&id=1GNBMr7pyI92KLGSirrcN8CoQo-DgznNG" width="200" height="100" style=" max-width: 200px; border-radius: 8px;"/>
-        </div>
-        <div style="flex: 1; ">
-            <h2>¿Quién eres?</h2>
-            <h1>Mi Nombre es: Jonathan Toloza </h1>
-            <h3>Ingeniero en informatica</h3>
-        </div>   
+    <table border="1">
+            <tr>
+                <th>
+                    <img src="https://drive.google.com/uc?export=download&id=1GNBMr7pyI92KLGSirrcN8CoQo-DgznNG" width="200" height="100" style="border-radius:8px;"/>
+                </th>
+                <th>
+                    <tr>
+                        <td>
+                            <h2>¿Quién eres?</h2>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <h1>Mi Nombre es: Jonathan Toloza </h1>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <h3>Ingeniero en informatica</h3>
+                        </td>
+                    </tr>       
+                </th>
+            </tr>
+        </table>
  </header>
 
 <!--
