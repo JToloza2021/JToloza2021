@@ -2,7 +2,7 @@
         <h2>¿Quién eres?</h2>
         <h1>Mi Nombre es: Jonathan Toloza </h1>
         <h3>Ingeniero en informatica</h3>
-        <iframe src="https://drive.google.com/file/d/1GNBMr7pyI92KLGSirrcN8CoQo-DgznNG/preview" width="200" height="100" allow="autoplay"></iframe>
+        <img src="https://drive.google.com/file/d/1GNBMr7pyI92KLGSirrcN8CoQo-DgznNG/preview" width="200" height="100" />
     </header>
 
 <!--
